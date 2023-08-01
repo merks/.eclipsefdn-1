@@ -11,7 +11,6 @@ orgs.newOrg('eclipse-justj') {
     email: "justj-dev@eclipse.org",
     members_can_change_project_visibility: false,
     members_can_change_repo_visibility: true,
-    members_can_create_teams: false,
     members_can_delete_repositories: true,
     name: "Eclipse JustJ",
     packages_containers_internal: false,
